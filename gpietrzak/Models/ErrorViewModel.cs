@@ -1,5 +1,3 @@
-using System;
-
 namespace gpietrzak.Models
 {
     public class ErrorViewModel
